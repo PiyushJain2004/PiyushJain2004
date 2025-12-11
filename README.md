@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- Working across the **MERN Stack** with a focus on practical, real-world engineering  
+- Working across the MERN stack to build scalable, real-world applications  
 - Interested in backend systems, API-driven design, and practical engineering workflows.
 - Building projects that combine AI + full-stack engineering
 - Exploring Python and AI/ML fundamentals to broaden technical depth.
