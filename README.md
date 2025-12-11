@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Piyush Jain 👋</h1>
 
 <p align="center">
-  MERN Stack • Node.js • React • MongoDB • Gemini API Integrations  
+  MERN Stack • Node.js • React • Express • MongoDB • Gemini API Integrations  
   <br/>
   <a href="mailto:piyushjain09752@gmail.com">Email</a> •
   <a href="https://github.com/PiyushJain2004">GitHub</a> •
