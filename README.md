@@ -39,8 +39,10 @@ Full-stack MERN platform for task distribution and admin management
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PiyushJain2004&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJain2004&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushJain2004&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushJain2004&layout=compact&theme=transparent" width="48%" />
 </p>
+
