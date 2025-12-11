@@ -14,7 +14,7 @@
 - Working across the **MERN Stack** with a focus on practical, real-world engineering  
 - Interested in backend systems, API-driven design, and practical engineering workflows.
 - Building projects that combine AI + full-stack engineering
-- Actively building projects that strengthen my understanding of full-stack development and system design.
+- Exploring Python and AI/ML fundamentals to broaden technical depth.
 
 ---
 
