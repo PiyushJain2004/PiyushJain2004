@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 - Working across the **MERN Stack** with a focus on practical, real-world engineering  
-- Experienced in **AI integrations** using Google Gemini API  
-- Interested in **backend systems, scalable architectures, and API-driven solutions**  
+- Interested in backend systems, API-driven design, and practical engineering workflows.
 - Building projects that combine AI + full-stack engineering
+- Actively building projects that strengthen my understanding of full-stack development and system design.
 
 ---
 
@@ -38,12 +38,4 @@ Full-stack MERN platform for task distribution and admin management
 **Tools:** Git, GitHub, Postman, Render  
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PiyushJain2004&show_icons=true&theme=transparent" width="48%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PiyushJain2004&layout=compact&theme=transparent" width="48%" />
-
-</p>
 
